@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon May 20 18:54:44 2019
-"""
 
 from Bio.PDB import *
 import pandas as pd
