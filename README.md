@@ -6,4 +6,4 @@ Distance matrices are matrices that represent pairwise distances between each re
 a variety of purposes, mainly for visualizing homologous proteins. 
 
 
-![Screenshot][Figure_1.png]
+
